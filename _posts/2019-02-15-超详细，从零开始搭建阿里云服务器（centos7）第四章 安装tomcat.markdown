@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - linux
 ---
 下面到了最关键的一步，安装tomcat过程中也是不断地爬坑。。
 

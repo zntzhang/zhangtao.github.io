@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - mq
 ---
 我们公司有一个项目，用到了消息队列，经常会遇到很多坑，难以排查，下面我详细描述一下心路历程。
 

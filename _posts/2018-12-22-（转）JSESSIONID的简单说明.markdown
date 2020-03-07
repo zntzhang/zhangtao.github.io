@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - 登录
 ---
 **1）第一次访问服务器的时候，会在响应头里面看到Set-Cookie信息（只有在首次访问服务器的时候才会在响应头中出现该信息）**  
 ![在这里插入图片描述](http://img-blog.csdnimg.cn/20181222211057258.jpg)

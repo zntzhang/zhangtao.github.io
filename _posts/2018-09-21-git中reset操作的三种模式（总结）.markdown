@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - git
 ---
 首先，git 本地提交，会经过三个步骤。  
 这三个步骤的流程不多做解释  

@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - linux
 ---
 博主前两天买了3年最低配的阿里云玩玩，这次写一个笔记记录下自己搭服务器所遇到的坑。
 

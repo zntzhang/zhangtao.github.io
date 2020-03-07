@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - 前端
 ---
 ##  1\. (function($){})(jQuery)的含义
 

@@ -6,7 +6,7 @@ author:  "张涛"
 header-img: "img/post-bg-2015.jpg"
 catalog:   false
 tags:
-
+    - 事务
 ---
 **在使用SPRING的事务控制时，事务一般都是加在SERVICE层的，这个时候如果一个SERVICE调用另一个SERVICE时如何保持事务一致？比如第二个SERVICE抛出了异常，第一个SERVICE回滚。**
 
